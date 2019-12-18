@@ -1,5 +1,7 @@
 ## Final-project-cooperation
 
+>  ### :thought_balloon: 人如果没有梦想，和咸鱼有什么区别。
+
 ---
 ## 个人简介-自我策展：
 ### 18网新1A班周子濠
