@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Final-project-cooperation
 
-You can use the [editor on GitHub](https://github.com/zhouzhouzihao/python/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+>  ### :thought_balloon: 人如果没有梦想，和咸鱼有什么区别。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
+## 个人简介-自我策展：
+### 18网新1A班周子濠
+### 寻找师兄师姐一起完成期末项目
+### 希望能尽快完成期末项目！
+---
+### WebDesign ability
+[Jekyll个人博客](https://zhousimmons.gitee.io/zzh_kuzma/)
+<br>
+[个人简历](https://zhousimmons.gitee.io/resume/)
+<br>
+[做过的一个网页设计](https://zhousimmons.gitee.io/web_html/)
 
-### Markdown
+---
+关于我：
++ 本人python能力一般，但绝不会划水，会继续学习，与师兄师姐一起为了期末项目付出最大的努力。
++ 使用Flask构建简单的Web应用
++ 将Python与Mysql数据库进行连接，将数据存储在数据库里
++ 会将Python Web应用部署到pythonanywhere上，上面项目Python网上选色可显示。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhouzhouzihao/python/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
+加我微信！
+## 我的微信号： ZZH1146495579
